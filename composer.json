@@ -1,9 +1,9 @@
 {
-    "name": "SDK/libs/signgen",
+    "name": "sdk/libs",
     "description": "Signature generator for various devcookies software API",
     "type": "library",
     "keywords": ["signgen", "devcookies"],
-    "homepage": "https://stash.paymantix.com/projects/SDK/repos/libs/signgen/",
+    "homepage": "https://stash.paymantix.com/projects/SDK/repos/libs/",
     "license": "MIT",
     "require": {
         "php": ">=5.3.5"
