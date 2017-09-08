@@ -10,5 +10,11 @@
     },
     "autoload": {
         "psr-0": { "devcookies": "php/" }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://stash.paymantix.com/scm/sdk/libs.git"
+        }
+    ]
 }
